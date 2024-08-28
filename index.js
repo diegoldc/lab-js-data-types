@@ -98,4 +98,5 @@ console.log(expression6);
 
 const expression7 = a && a;
 let respuesta7 = true;
+
 console.log(expression7);
